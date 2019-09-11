@@ -2,7 +2,7 @@
 
 Created for project 3 at Northwestern Bootcamp upBit is an interactive financial app that helps traders monitor and analyze crypto-currency assets.  A custom API is created using sequelize and MYSQL database.  We use [Coinbase API](https://developers.coinbase.com/) and [Omenics](https://omenics.com/dashboard) to collect historical data of these currencies. Various scraping and charting npm packages are used to display news and analytics. 
 
-The app is created on React front-end, with sequelize express back-end using MVC architecture.  Passport React JWT authorization is applied saving user data onto MongoDB.  
+The app is created on React front-end, with sequelize express backend using MVC architecture.  Passport React JWT authorization is applied saving user data onto MongoDB.  
 
 [Heroku Link](https://upbit-v1.herokuapp.com/)
 
