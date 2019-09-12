@@ -1,4 +1,4 @@
-# upbit
+# upBit
 
 Created for project 3 at Northwestern Bootcamp upBit is an interactive financial app that helps traders monitor and analyze crypto-currency assets.  A custom API is created using sequelize and MYSQL database.  We use [Coinbase API](https://developers.coinbase.com/) and [Omenics](https://omenics.com/dashboard) to collect historical data of these currencies. Various scraping and charting npm packages are used to display news and analytics. 
 
@@ -12,19 +12,24 @@ The app is created on React front-end, with sequelize express backend using MVC 
 
 ## Screen Shots
 Register
-![Screen shot](.\public\assets\screenshots\Register.jpg)
+
+![Screen shot](/client/public/assets/screenshots/Register.png)
 
 News
-![Screen shot2](.\public\assets\screenshots\News.jpg)
+![Screen shot2](/client/public/assets/screenshots/News.png)
 
 Pricing
-![Screen shot3](.\public\assets\screenshots\Pricing.jpg)
+![Screen shot3](/client/public/assets/screenshots/Pricing.png)
 
 Graph
-![Screen shot3](.\public\assets\screenshots\Graph.jpg)
+![Screen shot4](/client/public/assets/screenshots/Graph.png)
 
-## Technologies used
+Regression Graph
+![Screen shot5](/client/public/assets/screenshots/GraphReg.png)
 
+
+
+## Technologies 
 - [Node.js](https://en.wikipedia.org/wiki/Node.js)
 - [Materialize Framework](https://materializecss.com/)
 - [Sequelize](http://docs.sequelizejs.com/)
@@ -43,9 +48,19 @@ Graph
 - Go to Terminal in VS Code command line input: npm start
 - Goto Register 
 
-**Joey Lansangan** - /Materialize/HTML/CSS/Frontend Visual Design - [Joey Portfolio](LINK)
 
-**Sung Lee** - /Passport Authentication/News Scraping//NPM Packages/Routing and Backend JS - [Sung Portfolio](LINK)
+## Project 3 - Accolades By Classroom Vote Awarded
+Winner Most Awe Inspiring 63%  - [First Place Prize](https://drive.google.com/open?id=1022WP89pugTqxPqD5oE1mUStJE7R9jZUqwkuoqEsXbc)
 
-**Kat Poulos** - /Sequelize MySQL/Graphing NPM packages/API implimentation/Routing and Backend JS - [Kat Portfolio](LINK)
+Winner Best Use of Tech 44%
+
+Winner Most Disruptive 38%
+
+## Programming Team
+
+**Joey Lansangan** - /Materialize/HTML/CSS/Frontend Visual Design - [Joey Portfolio](https://joeylansangan.github.io/streetcode/)
+
+**Sung Lee** - /Passport Authentication/News Scraping//NPM Packages/Routing and Backend JS - [Sung Portfolio](https://sungsoolee2.github.io/developer-portfolio/)
+
+**Kat Poulos** - /Sequelize MySQL/Graphing NPM packages/API Creation/Routing and Backend JS - [Kat Portfolio](https://www.linkedin.com/in/katerina-poulos-451a53189/)
 
